@@ -15,6 +15,7 @@ class ConfigApp
     public static $ACTIONS = [
       'home' => 'LoginController#Home',
       'usuario'=> 'UsuarioController#Home',
+      'viajes'=> 'ViajesController#Viajes'
       // 'ciudadano'=> 'CiudadanoController#Home',
       // 'formulario'=>'CiudadanoController#mostrarFormulario',
       // //Esto es para ver el mapa del jefe, pero no pude probar si anda
