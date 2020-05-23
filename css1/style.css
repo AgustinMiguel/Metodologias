@@ -44,4 +44,23 @@ margin-right: 0 !important;
   height: 10%;
   color: white;
 }
+
+
+.margin-top{
+margin-top: 20px;
+}
+
+.nombre-usuario{
+  font-size: 25px;
+
+}
+
+
+.notificacion{
+
+  height: 35px;
+
+}
+
+
 /*Se ajusta el tamaño de logo municipio de tandil en la barra de navegacion*/
