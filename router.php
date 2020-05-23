@@ -3,7 +3,8 @@
   // require_once ('controller/JefeController.php');
   require_once ('controller/LoginController.php');
 //  require_once ('controller/SecuredController.php');
-require_once ('controller/ViajesController.php');
+  require_once ('controller/ViajesController.php');
+  require_once ('controller/HotelesController.php');
   require_once ('config/ConfigApp.php');
 
   function parseURL($url)
