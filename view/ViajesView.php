@@ -24,6 +24,12 @@ class ViajesView
         $smarty->display('templates/listaViajes.tpl');
     }
 
+    
+    public function notificarViaje(){
+      $smarty = new Smarty();
+      $smarty->display('templates/notificarViaje.tpl');
+    }
+
     public function viajesFuturos(){
     $smarty = new Smarty();
     $smarty->display('templates/viajesFuturos.tpl');

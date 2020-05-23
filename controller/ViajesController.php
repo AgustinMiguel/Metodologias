@@ -27,10 +27,17 @@ class ViajesController
     // $viajes = $this->model->listarViajes($usuario);
     $this->view->displayListarViajes();
 }
+
+public function notificarViaje(){
+  // $viajes = $this->model->listarViajes($usuario);
+  $this->view->notificarViaje();
+}
+
 public function viajesFuturos(){
   // $viajes = $this->model->viajesFuturos($usuario, $email);
   $this->view->viajesFuturos();
 }
+
 public function listaViajesCompleta(){
   $this->view->listaViajesCompleta();
 }

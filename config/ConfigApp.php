@@ -17,6 +17,7 @@ class ConfigApp
       'usuario'=> 'UsuarioController#Home',
       'viajes'=> 'ViajesController#listarViajes',
       'viajesFuturos' => 'ViajesController#viajesFuturos',
+      'notificarViaje' => 'ViajesController#notificarViaje',
       'listaViajes2' => 'ViajesController#listaViajesCompleta',
       'reservaHotel' => 'ViajesController#reservarHotel'
       // 'ciudadano'=> 'CiudadanoController#Home',
