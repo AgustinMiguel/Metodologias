@@ -14,6 +14,7 @@
               <th scope="col">nombre hotel</th>
               <th scope="col">numero vuelo</th>
               <th scope="col">numero plan</th>
+              <th scope="col"> </th>
             </tr>
           </thead>
           <tbody>
@@ -34,7 +35,7 @@
               <td> </td>
               <td>4</td>
               <td>9</td>
-              <td><a href="formularioViajes"><button type="button" name="button" class="btn btn-primary">Agregar Hotel</button></a></td>
+              <td><a href="reservaHotel"><button type="button" name="button" class="btn btn-primary">Agregar Hotel</button></a></td>
             </tr>
           </tbody>
         </table>

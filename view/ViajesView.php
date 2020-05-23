@@ -36,6 +36,10 @@ public function formularioViajes(){
 $smarty = new Smarty();
 $smarty->display('templates/formularioViajes.tpl');
 }
+public function reservarHotel(){
+$smarty = new Smarty();
+$smarty->display('templates/reservaHotel.tpl');
+}
 
 }
 

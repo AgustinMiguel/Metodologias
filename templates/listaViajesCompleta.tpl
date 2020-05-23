@@ -33,7 +33,7 @@
             </tr>
             <tr>
               <th scope="row">3</th>
-              <td> </td>
+              <td>Hotel California</td>
               <td>4</td>
               <td>9</td>
             </tr>

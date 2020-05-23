@@ -37,6 +37,9 @@ public function listaViajesCompleta(){
 public function formularioViajes(){
   $this->view->formularioViajes();
 }
+public function reservarHotel(){
+  $this->view->reservarHotel();
+}
 
 }
 ?>
