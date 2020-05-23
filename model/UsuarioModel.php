@@ -5,16 +5,11 @@ class UsuarioModel
   private $db;
 
   function __construct()
+  function __construct()
   {
-    // $this->db = $this->Connect();
-  }
+    $this->db = new PDO('mysql:host=localhost;'.'dbname=agenda_viajes;charset=utf8', 'root', '');
 
-  // function Connect()
-  // {
-  //   return new PDO('mysql:host=localhost;'
-  //   .'dbname=reportes_tandil;charset=utf8'
-  //   , 'root', '');
-  // }
+  }
 
 
 
