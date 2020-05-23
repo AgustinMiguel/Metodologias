@@ -32,5 +32,9 @@ public function viajesFuturos(){
   $this->view->viajesFuturos();
 }
 
+public function notificarViaje(){
+  $this->view->notificarViaje();
+}
+
 }
 ?>

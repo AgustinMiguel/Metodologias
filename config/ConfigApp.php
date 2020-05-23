@@ -16,8 +16,13 @@ class ConfigApp
       'home' => 'LoginController#Home',
       'usuario'=> 'UsuarioController#Home',
       'viajes'=> 'ViajesController#listarViajes',
+<<<<<<< HEAD
+      'viajesFuturos' => 'ViajesController#viajesFuturos', 
+      'notificarViaje' => 'ViajesController#notificarViaje'
+=======
       'viajesFuturos' => 'ViajesController#viajesFuturos',
       'cargarReservaHotel' => 'HotelesController#reservarHotel'
+>>>>>>> 9bad3267ff2f43a2880276e2fbf637ac5c4618a4
       // 'ciudadano'=> 'CiudadanoController#Home',
       // 'formulario'=>'CiudadanoController#mostrarFormulario',
       // //Esto es para ver el mapa del jefe, pero no pude probar si anda
