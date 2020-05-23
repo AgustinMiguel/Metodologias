@@ -31,9 +31,11 @@ public function viajesFuturos(){
   // $viajes = $this->model->viajesFuturos($usuario, $email);
   $this->view->viajesFuturos();
 }
-
-public function notificarViaje(){
-  $this->view->notificarViaje();
+public function listaViajesCompleta(){
+  $this->view->listaViajesCompleta();
+}
+public function formularioViajes(){
+  $this->view->formularioViajes();
 }
 
 }

@@ -10,10 +10,12 @@
         <table class="table">
           <thead>
             <tr class="table-primary">
-              <th scope="col">numero viaje</th>
-              <th scope="col">nombre hotel</th>
-              <th scope="col">numero vuelo</th>
-              <th scope="col">numero plan</th>
+              <tr class="table-primary">
+                <th scope="col">numero viaje</th>
+                <th scope="col">nombre hotel</th>
+                <th scope="col">numero vuelo</th>
+                <th scope="col">numero plan</th>
+              </tr>
             </tr>
           </thead>
           <tbody>
@@ -34,7 +36,6 @@
               <td> </td>
               <td>4</td>
               <td>9</td>
-              <td><a href="formularioViajes"><button type="button" name="button" class="btn btn-primary">Agregar Hotel</button></a></td>
             </tr>
           </tbody>
         </table>
