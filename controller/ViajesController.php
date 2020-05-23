@@ -4,7 +4,7 @@ require_once "./model/ViajesModel.php";
 require_once "./view/ViajesView.php";
 //require_once  "SecuredController.php";
 
-class ViajesController 
+class ViajesController
 {
   private $view;
   private $model;
@@ -23,9 +23,13 @@ class ViajesController
     $this->view->mostrarHomeBase();
   }
 
-  public function listarViajes($usuario){
-    $viajes = $this->model->listarViajes($usuario);
-    $this->view->displayListarViajes($viajes);
+  public function listarViajes(){
+    // $viajes = $this->model->listarViajes($usuario);
+    $this->view->displayListarViajes();
+}
+public function viajesFuturos(){
+  // $viajes = $this->model->viajesFuturos($usuario, $email);
+  $this->view->viajesFuturos();
 }
 
 }

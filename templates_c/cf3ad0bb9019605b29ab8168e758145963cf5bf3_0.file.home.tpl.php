@@ -1,17 +1,17 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-05-23 22:01:54
-  from 'C:\xampp\htdocs\Proyectos\Metodologia\templates\home.tpl' */
+/* Smarty version 3.1.33, created on 2020-05-23 22:11:00
+  from 'D:\xampp\htdocs\proyectos\Metodologia\templates\home.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5ec98132dee213_96289447',
+  'unifunc' => 'content_5ec98354276793_24367587',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
-    '89091c07de57ffcf424101a1c06fea76c43a14ea' => 
+    'cf3ad0bb9019605b29ab8168e758145963cf5bf3' => 
     array (
-      0 => 'C:\\xampp\\htdocs\\Proyectos\\Metodologia\\templates\\home.tpl',
+      0 => 'D:\\xampp\\htdocs\\proyectos\\Metodologia\\templates\\home.tpl',
       1 => 1590264113,
       2 => 'file',
     ),
@@ -22,7 +22,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:templates/footer.tpl' => 1,
   ),
 ),false)) {
-function content_5ec98132dee213_96289447 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ec98354276793_24367587 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_subTemplateRender("file:templates/header.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0, false);
 ?>
 <div class="contenedor_Navbar barra">

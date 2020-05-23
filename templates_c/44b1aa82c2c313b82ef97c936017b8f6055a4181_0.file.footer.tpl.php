@@ -1,17 +1,17 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-05-23 22:01:32
-  from 'C:\xampp\htdocs\Proyectos\Metodologia\templates\footer.tpl' */
+/* Smarty version 3.1.33, created on 2020-05-23 22:11:00
+  from 'D:\xampp\htdocs\proyectos\Metodologia\templates\footer.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5ec9811c56d565_85824324',
+  'unifunc' => 'content_5ec9835437b8b4_56438964',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
-    '487e9c8456f33c9f40eeb4a691ab500a42c97163' => 
+    '44b1aa82c2c313b82ef97c936017b8f6055a4181' => 
     array (
-      0 => 'C:\\xampp\\htdocs\\Proyectos\\Metodologia\\templates\\footer.tpl',
+      0 => 'D:\\xampp\\htdocs\\proyectos\\Metodologia\\templates\\footer.tpl',
       1 => 1590263662,
       2 => 'file',
     ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5ec9811c56d565_85824324 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ec9835437b8b4_56438964 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
   <footer class="page-footer font-small blue" id="footer">
     <div class="footer-copyright text-center py-3">© Viajes
