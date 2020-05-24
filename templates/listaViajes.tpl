@@ -28,6 +28,8 @@
               <td>1</td>
               <td>24/6/2020</td>
               <td>28/6/2020</td>
+              <td><a href="verInfo"><button type="button" name="button" class="btn btn-primary">Ver info hotel</button></a></td>
+
             </tr>
             <tr>
               <th scope="row">2</th>
@@ -36,6 +38,7 @@
               <td>3</td>
               <td>28/6/2020</td>
               <td>31/6/2020</td>
+              <td><a href="verInfo"><button type="button" name="button" class="btn btn-primary">Ver info hotel</button></a></td>
             </tr>
             <tr>
               <th scope="row">3</th>
@@ -57,4 +60,3 @@
 
 <script src="./js/main.js" charset="utf-8"></script>
 {include file="templates/footer.tpl"}
-

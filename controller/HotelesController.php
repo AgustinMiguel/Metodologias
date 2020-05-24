@@ -32,6 +32,10 @@ class HotelesController
     session_destroy();
     header('Location: '.login);
   }
+  function verInfo(){
+    $this->view->verInfo();
+
+  }
 
 }
 ?>

@@ -23,6 +23,10 @@ class HotelesView
   function confirmacionViaEmail(){
     $this->Smarty->display('templates/confirmacionViaEmail.tpl');
   }
+  function verInfo(){
+    $this->Smarty->display('templates/verInfo.tpl');
+
+  }
 
 }
 
