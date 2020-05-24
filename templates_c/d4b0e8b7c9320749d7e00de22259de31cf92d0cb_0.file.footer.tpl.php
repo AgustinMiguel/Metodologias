@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-05-23 22:28:44
+/* Smarty version 3.1.33, created on 2020-05-24 20:43:27
   from 'D:\xampp\htdocs\proyectos\metodologia\templates\footer.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5ec9877cc0ec70_83817241',
+  'unifunc' => 'content_5ecac04f383b43_31974959',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'd4b0e8b7c9320749d7e00de22259de31cf92d0cb' => 
     array (
       0 => 'D:\\xampp\\htdocs\\proyectos\\metodologia\\templates\\footer.tpl',
-      1 => 1590263662,
+      1 => 1590345740,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5ec9877cc0ec70_83817241 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ecac04f383b43_31974959 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
   <footer class="page-footer font-small blue" id="footer">
     <div class="footer-copyright text-center py-3">© Viajes

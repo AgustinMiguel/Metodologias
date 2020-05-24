@@ -1,5 +1,7 @@
 <?php
   require_once ('controller/UsuarioController.php');
+  require_once ('controller/HotelesController.php');
+
   // require_once ('controller/JefeController.php');
   require_once ('controller/LoginController.php');
 //  require_once ('controller/SecuredController.php');
