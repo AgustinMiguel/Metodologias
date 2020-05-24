@@ -23,7 +23,17 @@ class UsuarioController //extends SecuredController
     $this->view->mostrarHomeBase();
   }
 
+    /*function CheckEmail($email) { // Chequear si el mail esta registrado en la base
+    $username = $email->username;    
 
+    $username = $_POST['username'];
+    $password = $_POST['password'];
+
+    $user = $this->UsuarioModel->getUsuario($username);
+
+    if(!isset($user)) {
+      $db->user->mostrar();
+    }
 
 
 

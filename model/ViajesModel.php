@@ -13,10 +13,7 @@ class ViajesModel
     $consulta->execute(array($usuario));
     $viajes = $viajes->fetchAll(PDO::FETCH_OBJ);  
     return $viajes;
-}
+  }
 
-
-}
-
-
- ?>
+} 
+?>

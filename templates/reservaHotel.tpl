@@ -62,6 +62,7 @@
                             </div>
                         </div>
                         <button type="submit" class="btn btn-primary mb-2" > <a href="listaViajes2" style="color:black">Confirmar</a></button>
+                        <button type="submit" class="btn btn-primary mb-2" > <a href="reservaMedianteEmail" style="color:black">Enviar Email</a></button>
                     </form>
                 </div>
             </div>

@@ -9,5 +9,10 @@ class UsuarioModel
   }
 }
 
+/*function getUsuario($username) {
+  $user = $this->model->usuarios($usuario, $email);
+  $this->view->viajesFuturos($user);
+}*/
+
 
  ?>

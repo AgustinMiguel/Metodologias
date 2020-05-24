@@ -16,6 +16,14 @@ class HotelesView
     $this->Smarty->display('templates/reservaHotel.tpl');
   }
 
+  function reservarMedianteUnEmail($message = ''){
+    $this->Smarty->display('templates/reservarPorEmail.tpl');
+  }
+
+  function confirmacionViaEmail(){
+    $this->Smarty->display('templates/confirmacionViaEmail.tpl');
+  }
+
 }
 
  ?>

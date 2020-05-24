@@ -1,7 +1,7 @@
 
 <nav class="navbar navbar-expand-md navbar-dark  bg-primary ">
-    <a class="" href="home"><img src="img/logo2.png" alt="" height="50px"></a>
-    <img href="#"src="imagenes/logo.png" class="logo" alt="Logo">
+  <a class="" href="home"><img src="img/logo2.png" alt="" height="50px"></a>
+  <a href="#"><img src="imagenes/logo.png" class="logo" alt="Logo"></a>
 
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -29,7 +29,7 @@
                   </div>
 
         <a class=" nav-link btn btn-primary nombre-usuario"  style="color: white;" href="#" disabled>#Pablo</a>
-        <a class=" nav-link btn btn-primary"  style="color: white;" href="#">Salir</a>
+        <a class=" nav-link btn btn-primary"  style="color: white;" href="">Salir</a>
       </form>
     </div>
   </nav>
