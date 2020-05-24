@@ -24,7 +24,7 @@ class UsuarioController //extends SecuredController
   }
 
     /*function CheckEmail($email) { // Chequear si el mail esta registrado en la base
-    $username = $email->username;    
+    $username = $email->username;
 
     $username = $_POST['username'];
     $password = $_POST['password'];
@@ -33,9 +33,10 @@ class UsuarioController //extends SecuredController
 
     if(!isset($user)) {
       $db->user->mostrar();
-    }
+    }*/
 
 
 
 }
+
 ?>
