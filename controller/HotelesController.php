@@ -16,14 +16,17 @@ class HotelesController
   }
 
   function reservarHotel(){
+    /*Esta funcion llama al mostrarReservaHotel de HotelesView.*/
     $this->view->mostrarReservaHotel();
   }
 
   function reservarPorEmail(){
+    /*Esta funcion llama al reservarMedianteUnEmail de HotelesView*/
     $this->view->reservarMedianteUnEmail();
   }
 
   function confirmaViaEmail(){
+    /*Esta funcion llama al confimacionViaEmail de HotelesView*/
     $this->view->confirmacionViaEmail();
   }
 

@@ -5,6 +5,7 @@ class HotelesModel
   private $db;
 
   function __construct(){
+    /*Se conecta a la base de datos agenda_viajes*/
     $this->db = new PDO('mysql:host=localhost;'.'dbname=agenda_viajes;charset=utf8', 'root', '');
   }
 
