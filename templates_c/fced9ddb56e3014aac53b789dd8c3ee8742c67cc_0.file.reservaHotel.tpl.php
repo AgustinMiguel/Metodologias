@@ -1,5 +1,32 @@
-{include file="templates/header.tpl"}
-{include file="templates/NavBarLogeado.tpl"}
+<?php
+/* Smarty version 3.1.33, created on 2020-05-24 21:01:47
+  from 'C:\xampp\htdocs\Metodologia\metodologia\templates\reservaHotel.tpl' */
+
+/* @var Smarty_Internal_Template $_smarty_tpl */
+if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
+  'version' => '3.1.33',
+  'unifunc' => 'content_5ecac49bcc0cd6_69949493',
+  'has_nocache_code' => false,
+  'file_dependency' => 
+  array (
+    'fced9ddb56e3014aac53b789dd8c3ee8742c67cc' => 
+    array (
+      0 => 'C:\\xampp\\htdocs\\Metodologia\\metodologia\\templates\\reservaHotel.tpl',
+      1 => 1590346906,
+      2 => 'file',
+    ),
+  ),
+  'includes' => 
+  array (
+    'file:templates/header.tpl' => 1,
+    'file:templates/NavBarLogeado.tpl' => 1,
+    'file:templates/footer.tpl' => 1,
+  ),
+),false)) {
+function content_5ecac49bcc0cd6_69949493 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->_subTemplateRender("file:templates/header.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0, false);
+$_smarty_tpl->_subTemplateRender("file:templates/NavBarLogeado.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0, false);
+?>
 <section>
     <div class="container">
         <div class="row cont">
@@ -69,4 +96,6 @@
         </div>
     </div>
 </section>
-{include file="templates/footer.tpl"}
+<?php $_smarty_tpl->_subTemplateRender("file:templates/footer.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0, false);
+}
+}

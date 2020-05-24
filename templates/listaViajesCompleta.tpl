@@ -1,3 +1,5 @@
+<script src="./js/main.js" charset="utf-8"></script>
+{include file="templates/footer.tpl"}
 {include file="templates/header.tpl"}
 {include file="templates/NavBarLogeado.tpl"}
 
@@ -15,6 +17,10 @@
                 <th scope="col">nombre hotel</th>
                 <th scope="col">numero vuelo</th>
                 <th scope="col">numero plan</th>
+                <th scope="col">fecha inicio</th>
+                <th scope="col">fecha fin</th>
+
+
               </tr>
             </tr>
           </thead>
@@ -24,22 +30,27 @@
               <td>El mirador</td>
               <td>55</td>
               <td>1</td>
+              <td>24/6/2020</td>
+              <td>28/6/2020</td>
             </tr>
             <tr>
               <th scope="row">2</th>
               <td>Llao Llao</td>
               <td>15</td>
               <td>3</td>
+              <td>28/6/2020</td>
+              <td>31/6/2020</td>
             </tr>
             <tr>
               <th scope="row">3</th>
               <td>Hotel California</td>
               <td>4</td>
               <td>9</td>
+              <td>25/9/2020</td>
+              <td>05/10/2020</td>
             </tr>
           </tbody>
         </table>
-
       </div>
     </div>
   </div>
@@ -47,4 +58,4 @@
 </section>
 
 <script src="./js/main.js" charset="utf-8"></script>
-{include file="templates/footer.tpl"}
+{include file="templates/footer.tpl"}s

@@ -19,6 +19,14 @@ class HotelesController
     $this->view->mostrarReservaHotel();
   }
 
+  function reservarPorEmail(){
+    $this->view->reservarMedianteUnEmail();
+  }
+
+  function confirmaViaEmail(){
+    $this->view->confirmacionViaEmail();
+  }
+
   function logout(){
     session_start();
     session_destroy();
