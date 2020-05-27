@@ -23,10 +23,6 @@ class HotelesView
     $this->Smarty->display('templates/reservarPorEmail.tpl');
   }
 
-  function confirmacionViaEmail(){
-    /*Esta funcion nos muestra el template donde se le avisa al usuario que su reserva se realizo con exito*/
-    $this->Smarty->display('templates/confirmacionViaEmail.tpl');
-  }
   function verInfo(){
     $this->Smarty->display('templates/verInfo.tpl');
 

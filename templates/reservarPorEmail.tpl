@@ -18,7 +18,7 @@
                                 <input type="file" class="form-control" id="inputBoucher" placeholder=hotelupmetodologiacompany@gmail.com>
                             </div>
                         </div>                            
-                        <button type="submit" class="btn btn-primary mb-2" > <a href="cofirmacionEmail" style="color:black">Reservar</a></button>
+                        <button type="submit" class="btn btn-primary mb-2" > <a href="#" style="color:black">Reservar</a></button>
                     </form>
                 </div>
             </div>

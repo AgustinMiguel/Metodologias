@@ -25,11 +25,6 @@ class HotelesController
     $this->view->reservarMedianteUnEmail();
   }
 
-  function confirmaViaEmail(){
-    /*Esta funcion llama al confimacionViaEmail de HotelesView*/
-    $this->view->confirmacionViaEmail();
-  }
-
   function logout(){
     session_start();
     session_destroy();

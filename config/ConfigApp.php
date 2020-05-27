@@ -21,7 +21,6 @@ class ConfigApp
       'listaViajes2' => 'ViajesController#listaViajesCompleta',
       'reservaHotel' => 'HotelesController#reservarHotel',
       'reservaMedianteEmail' => 'HotelesController#reservarPorEmail',
-      'cofirmacionEmail' => 'HotelesController#confirmaViaEmail',
       'verInfo' => 'HotelesController#verInfo'
       // 'ciudadano'=> 'CiudadanoController#Home',
       // 'formulario'=>'CiudadanoController#mostrarFormulario',
