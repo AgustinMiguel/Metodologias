@@ -1,4 +1,3 @@
-<script src="./js/main.js" charset="utf-8"></script>
 {include file="templates/header.tpl"}
 {include file="templates/NavBarLogeado.tpl"}
 
@@ -17,6 +16,8 @@
               <th scope="col">Fecha de vuelta</th>
               <th scope="col">Nombre hotel</th>
               <th scope="col"> </th>
+              <th scope="col"> </th>
+              <th scope="col"> </th>
 
             </tr>
           </thead>
@@ -27,9 +28,9 @@
               <td>30/5/2020</td>
               <td>24/6/2020</td>
               <td>El mirador</td>
-              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">editar</button></a></td>
-              <td><button type="button" name="button" class="btn btn-primary">borrar</button></td>
-              <td><button type="button" name="button" class="btn btn-primary">mapa</button></td>
+              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Editar</button></a></td>
+              <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
+              <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>
             </tr>
             <tr>
               <td>Santiago, Chile</td>
@@ -37,22 +38,22 @@
               <td>25/6/2020</td>
               <td>28/6/2020</td>
               <td>Hotel California</td>
-              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">editar</button></a></td>
-              <td><button type="button" name="button" class="btn btn-primary">borrar</button></td>
-              <td><button type="button" name="button" class="btn btn-primary">mapa</button></td>
-            </tr>
+              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Editar</button></a></td>
+              <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
+              <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>            </tr>
             <tr>
-              <td>Londres, Inglaterra </td>
+              <td>París, Francia </td>
               <td>Ezeiza</td>
               <td>21/9/2020</td>
               <td>25/9/2020</td>
-              <td>Central London B&B Hotel</td>
-              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">editar</button></a></td>
-              <td><button type="button" name="button" class="btn btn-primary">borrar</button></td>
-              <td><button type="button" name="button" class="btn btn-primary">mapa</button></td>
+              <td>Idol Hotel</td>
+              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Editar</button></a></td>
+              <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
+              <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>
             </tr>
           </tbody>
         </table>
+
       </div>
     </div>
   </div>
@@ -60,4 +61,4 @@
 </section>
 
 <script src="./js/main.js" charset="utf-8"></script>
-{include file="templates/footer.tpl"}s
+{include file="templates/footer.tpl"}

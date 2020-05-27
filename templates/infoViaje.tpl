@@ -25,7 +25,7 @@
           <tbody>
             <tr>
               <td>Lima, Perú</td>
-            <td>Lima, Perú</td>
+              <td>Lima, Perú</td>
               <td>Lima, Perú</td>
               <td>Lima, Perú</td>
               <td>Lima, Perú</td>
@@ -36,11 +36,11 @@
               <td>Lima, Perú</td>
             </tr>
         </tbody>
-            <td><a href="reservaHotel"><button type="button" name="button" class="btn btn-primary">agregar reserva</button></a></td>   
-            <td><button type="button" name="button" class="btn btn-primary">agregar planes</button></td>
-            <td><button type="button" name="button" class="btn btn-primary">agregar vuelo</button></td>/button></a></td>
+            <td><a href="reservaHotel"><button type="button" name="button" class="btn btn-primary">Agregar reserva</button></a></td>
+            <td><button type="button" name="button" class="btn btn-primary">Agregar planes</button></td>
+            <td><button type="button" name="button" class="btn btn-primary">Agregar vuelo</button></td></a></td>
         </table>
-        <a href="viajes"><button type="button" name="button" class="btn btn-primary">confirmar</button></a>
+        <a href="viajes"><button type="button" name="button" class="btn btn-primary">Confirmar</button></a>
       </div>
     </div>
   </div>

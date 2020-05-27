@@ -1,5 +1,5 @@
 
-  <footer class="page-footer font-small blue" id="footer">
+  <footer class="page-footer font-small blue fixed-bottom" id="footer">
     <div class="footer-copyright text-center py-3">© Viajes
     </div>
 </footer>

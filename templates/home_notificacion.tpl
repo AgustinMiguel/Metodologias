@@ -19,8 +19,8 @@
                           <img class="  col-7 img-notificacion "  src="imagenes/torre-eiffel.jpg" alt="" width="200px">
                           <div class="  col-5 no-padding  ">
                             <p class="titulo-notificacion">Reserva cargada</p>
-                            <p class="descripcion-notificacion ">Id viaje: 1</p>
                             <p class="descripcion-notificacion ">Destino: Francia</p>
+                            <p class="descripcion-notificacion ">Hotel: Idol Hotel</p>
                           </div>
                       </div>
                     </div>
