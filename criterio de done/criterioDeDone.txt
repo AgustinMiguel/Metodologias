@@ -1,0 +1,13 @@
+CRITERIO DE DONE:
+
+-El trabajo de cada miembro del equipo ha sido revisado por al menos otro miembro del equipo. 
+
+-El código debe estar subido a github, con un commit descriptivo del trabajo hecho. 
+
+-Verificar que la User Story/tarea realizada tenga todos los criterios de aceptación definidas en jira. 
+
+-Cada user story/tarea tiene que tener un link que te lleve hacia el commit en github. 
+
+-Asegurarse que el código esté comentado para que sea más fácil comprender los métodos y funciones.
+
+-Realizar un test cumpliendo con el template-test registrando una captura de pantalla del resultado en gitHub.
