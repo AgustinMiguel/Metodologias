@@ -9,7 +9,7 @@
 
       </ul>
       <form class="form-inline mt-2 mt-md-0 no-mobile" action="busqueda.html">
-
+        <!-- Tabla de notificaciones desplegable -->
                   <div class="dropdown">
                     <img class="notificacion" src="imagenes/campana.png" id="dropdownMenuLink" data-toggle="dropdown" alt="">
                     </button>
@@ -17,6 +17,7 @@
                       <div class="row align-items-center item-dropdown no-margin">
                           <img class="  col-7 img-notificacion "  src="imagenes/torre-eiffel.jpg" alt="" width="200px">
                           <div class="  col-5 no-padding  ">
+                            <!-- Aqui se muestra la reserva cargada -->
                             <p class="titulo-notificacion">Reserva cargada</p>
                             <p class="descripcion-notificacion ">Destino: Francia</p>
                             <p class="descripcion-notificacion ">Hotel: Idol Hotel</p>

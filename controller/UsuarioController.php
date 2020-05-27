@@ -19,10 +19,11 @@ class UsuarioController //extends SecuredController
     $this->view = new UsuarioView();
   }
 
+  // Home principal
   function Home(){
     $this->view->mostrarHomeBase();
   }
-
+// Home que mustra el panel de notificaciones desplegado simulando la aceptacion de la reserva del usuario
   function HomeNotificacion(){
     $this->view->mostrarHomeNotificacion();
   }
