@@ -47,7 +47,7 @@ $smarty = new Smarty();
 $smarty->display('templates/reservaHotel.tpl');
 }
 
-public function informacionDetalladaViaje(){
+public function informacionDetalladaViaje(){ //GRUPO 75 - Los datos de los viajes obtenidos en la base son mostrados ('infoViaje') y gestionados en la vista.
   $smarty = new Smarty();
   $smarty->display('templates/infoViaje.tpl');
 }
