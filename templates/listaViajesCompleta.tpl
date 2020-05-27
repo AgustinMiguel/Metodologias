@@ -1,5 +1,4 @@
 <script src="./js/main.js" charset="utf-8"></script>
-{include file="templates/footer.tpl"}
 {include file="templates/header.tpl"}
 {include file="templates/NavBarLogeado.tpl"}
 
@@ -12,42 +11,37 @@
         <table class="table">
           <thead>
             <tr class="table-primary">
-              <tr class="table-primary">
-                <th scope="col">numero viaje</th>
-                <th scope="col">nombre hotel</th>
-                <th scope="col">numero vuelo</th>
-                <th scope="col">numero plan</th>
-                <th scope="col">fecha inicio</th>
-                <th scope="col">fecha fin</th>
+              <th scope="col">Lugar destino</th>
+              <th scope="col">Aeropuerto de salida</th>
+              <th scope="col">Fecha de ida</th>
+              <th scope="col">Fecha de vuelta</th>
+              <th scope="col">Nombre hotel</th>
+              <th scope="col"> </th>
 
-
-              </tr>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <th scope="row">1</th>
-              <td>El mirador</td>
-              <td>55</td>
-              <td>1</td>
+              <td>Lima, Perú</td>
+              <td>Ezeiza</td>
+              <td>30/5/2020</td>
               <td>24/6/2020</td>
-              <td>28/6/2020</td>
+              <td>El mirador</td>
+
             </tr>
             <tr>
-              <th scope="row">2</th>
-              <td>Llao Llao</td>
-              <td>15</td>
-              <td>3</td>
+              <td>Santiago, Chile</td>
+              <td>Ezeiza</td>
+              <td>25/6/2020</td>
               <td>28/6/2020</td>
-              <td>31/6/2020</td>
-            </tr>
-            <tr>
-              <th scope="row">3</th>
               <td>Hotel California</td>
-              <td>4</td>
-              <td>9</td>
+            </tr>
+            <tr>
+              <td>Londres, Inglaterra </td>
+              <td>Ezeiza</td>
+              <td>21/9/2020</td>
               <td>25/9/2020</td>
-              <td>05/10/2020</td>
+              <td>Central London B&B Hotel</td>
             </tr>
           </tbody>
         </table>
