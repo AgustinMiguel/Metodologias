@@ -22,7 +22,8 @@ class ConfigApp
       'reservaHotel' => 'HotelesController#reservarHotel',
       'reservaMedianteEmail' => 'HotelesController#reservarPorEmail',
       'verInfo' => 'HotelesController#verInfo',
-        'homeNotificacion'=> 'UsuarioController#HomeNotificacion'
+        'homeNotificacion'=> 'UsuarioController#HomeNotificacion',
+        'verInfoViaje' => 'ViajesController#informacionViaje',
       // 'ciudadano'=> 'CiudadanoController#Home',
       // 'formulario'=>'CiudadanoController#mostrarFormulario',
       // //Esto es para ver el mapa del jefe, pero no pude probar si anda

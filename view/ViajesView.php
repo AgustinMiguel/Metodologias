@@ -47,6 +47,11 @@ $smarty = new Smarty();
 $smarty->display('templates/reservaHotel.tpl');
 }
 
+public function informacionDetalladaViaje(){
+  $smarty = new Smarty();
+  $smarty->display('templates/infoViaje.tpl');
+}
+
 }
 
 

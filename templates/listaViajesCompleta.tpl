@@ -27,7 +27,9 @@
               <td>30/5/2020</td>
               <td>24/6/2020</td>
               <td>El mirador</td>
-
+              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">editar</button></a></td>
+              <td><button type="button" name="button" class="btn btn-primary">borrar</button></td>
+              <td><button type="button" name="button" class="btn btn-primary">mapa</button></td>
             </tr>
             <tr>
               <td>Santiago, Chile</td>
@@ -35,6 +37,9 @@
               <td>25/6/2020</td>
               <td>28/6/2020</td>
               <td>Hotel California</td>
+              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">editar</button></a></td>
+              <td><button type="button" name="button" class="btn btn-primary">borrar</button></td>
+              <td><button type="button" name="button" class="btn btn-primary">mapa</button></td>
             </tr>
             <tr>
               <td>Londres, Inglaterra </td>
@@ -42,6 +47,9 @@
               <td>21/9/2020</td>
               <td>25/9/2020</td>
               <td>Central London B&B Hotel</td>
+              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">editar</button></a></td>
+              <td><button type="button" name="button" class="btn btn-primary">borrar</button></td>
+              <td><button type="button" name="button" class="btn btn-primary">mapa</button></td>
             </tr>
           </tbody>
         </table>

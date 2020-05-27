@@ -17,7 +17,8 @@
               <th scope="col">Nombre hotel</th>
               <th scope="col"> </th>
               <th scope="col"> </th>
-
+              <th scope="col"> </th>
+            
             </tr>
           </thead>
           <tbody>
@@ -27,8 +28,9 @@
               <td>30/5/2020</td>
               <td>24/6/2020</td>
               <td>El mirador</td>
-              <td><a href="verInfo"><button type="button" name="button" class="btn btn-primary">Ver info hotel</button></a></td>
-
+              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">editar</button></a></td>
+              <td><button type="button" name="button" class="btn btn-primary">borrar</button></td>
+              <td><button type="button" name="button" class="btn btn-primary">mapa</button></td>
             </tr>
             <tr>
               <td>Santiago, Chile</td>
@@ -36,15 +38,18 @@
               <td>25/6/2020</td>
               <td>28/6/2020</td>
               <td>Hotel California</td>
-              <td><a href="verInfo"><button type="button" name="button" class="btn btn-primary">Ver info hotel</button></a></td>
-            </tr>
+              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">editar</button></a></td>
+              <td><button type="button" name="button" class="btn btn-primary">borrar</button></td>
+              <td><button type="button" name="button" class="btn btn-primary">mapa</button></td>            </tr>
             <tr>
               <td>Londres, Inglaterra </td>
               <td>Ezeiza</td>
               <td>21/9/2020</td>
               <td>25/9/2020</td>
               <td></td>
-              <td><a href="reservaHotel"><button type="button" name="button" class="btn btn-primary">Agregar Hotel</button></a></td>
+              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">editar</button></a></td>
+              <td><button type="button" name="button" class="btn btn-primary">borrar</button></td>
+              <td><button type="button" name="button" class="btn btn-primary">mapa</button></td>
             </tr>
           </tbody>
         </table>

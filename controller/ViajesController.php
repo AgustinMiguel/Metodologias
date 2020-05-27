@@ -45,5 +45,9 @@ public function formularioViajes(){
   $this->view->formularioViajes();
 }
 
+public function informacionViaje(){
+  $this->view->informacionDetalladaViaje();
+}
+
 }
 ?>
