@@ -1,0 +1,16 @@
+TEMPLATE TEST:
+
+FUNCIONALIDAD1: addReservaHotel
+	ENTRADA: hotel, fechaIni, fechaFin, nro_habitacion, calle, numero, estrellas, horario_checkin, horario_checkout, viaje
+	SALIDA: Que los datos se agreguen correctamente a la db en su viaje correspondiente. (true)
+
+FUNCIONALIDAD2: listarViajes
+	ENTRADA:
+	SALIDA: Todos mis viajes en su template correspondiente
+
+FUNCIONALIDAD3: verHotelViaje
+	ENTRADA: viaje
+	SALIDA: hotel de mi viaje  
+
+  
+		
