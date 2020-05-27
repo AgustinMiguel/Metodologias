@@ -103,9 +103,11 @@ color: white;
 
 }
 
-#img-estrellas {
-  width: 100px;
-  height: 50px;
+#img-stars {
+  width: 90px;
+  height: 40px;
+  display:block;
+  margin:auto;
 }
 
 
