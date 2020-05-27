@@ -22,6 +22,10 @@ class UsuarioView
       $this->Smarty->display('templates/formulario.tpl');
     }
 
+    function mostrarHomeNotificacion(){
+       $this->Smarty->display('templates/home_notificacion.tpl');
+    }
+
 
     function MostrarMapa( $usuario,$denuncias){
       $this->Smarty->assign('usuario',$usuario);

@@ -23,6 +23,10 @@ class UsuarioController //extends SecuredController
     $this->view->mostrarHomeBase();
   }
 
+  function HomeNotificacion(){
+    $this->view->mostrarHomeNotificacion();
+  }
+
     /*function CheckEmail($email) { // // GRUPO-72 Corrobar que el email sea de un usuario registrado.
     $username = $email->username;
 
