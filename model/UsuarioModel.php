@@ -9,7 +9,7 @@ class UsuarioModel
   }
 }
 
-/*function getUsuario($username) {
+/*function getUsuario($username) { // GRUPO 72- Mediante el parametro, buscamos si el usuario existe dentro de la base de datos.
   $user = $this->model->usuarios($usuario, $email);
   $this->view->viajesFuturos($user);
 }*/
