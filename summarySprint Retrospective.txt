@@ -15,9 +15,11 @@
 ##4. What could be improved?
 	Trabajar coordinadamente con GitHub utilizando branch luego haciendo merge con la branch master.
 	Dividir equipos de front-end y back-end.
+	Dividir mejor las tareas.
 
 
 ##5. What will we commit to doing in the next Sprint? (actionable commitments)
 	Dividir equipos de front-end y back-end.
 	Funcionalidad dinamica.
+
 		
