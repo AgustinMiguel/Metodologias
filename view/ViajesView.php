@@ -24,17 +24,17 @@ class ViajesView
         $smarty->display('templates/listaViajes.tpl');
     }
 
-    
+
     public function notificarViaje(){
       $smarty = new Smarty();
       $smarty->display('templates/notificarViaje.tpl');
     }
 
-    public function viajesFuturos(){
+    public function viajesFuturos(){ //GRUPO 77 - Los datos son enviados y mostrados en el template ViajesFuturos
     $smarty = new Smarty();
     $smarty->display('templates/viajesFuturos.tpl');
 }
-public function listaViajesCompleta(){
+public function listaViajesCompleta(){ //GRUPO 77 - Los datos son enviados y mostrados en el template ListaViajesCompleta
 $smarty = new Smarty();
 $smarty->display('templates/listaViajesCompleta.tpl');
 }

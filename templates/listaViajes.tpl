@@ -7,6 +7,7 @@
     <div class="col-12 roles">
       <div class="container-fluid">
         <h1 style="margin-bottom: 3%">Viajes futuros</h1>
+        <!-- Tabla en donde se muestran los datos de los viajes futuros -->
         <table class="table">
           <thead>
             <tr class="table-primary">

@@ -8,6 +8,7 @@
       <div class="container-fluid">
         <h1 style="margin-bottom: 3%">Viajes futuros</h1>
         <table class="table">
+          <!-- Tabla en donde se muestran los datos de los viajes futuros -->
           <thead>
             <tr class="table-primary">
               <th scope="col">Lugar destino</th>

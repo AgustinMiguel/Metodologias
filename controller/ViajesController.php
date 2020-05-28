@@ -23,7 +23,7 @@ class ViajesController
     $this->view->mostrarHomeBase();
   }
 
-  public function listarViajes(){
+  public function listarViajes(){ //GRUPO 77 - Los datos son enviados a la vista para poder mostrarlos al usuario.
     // $viajes = $this->model->listarViajes($usuario);
     $this->view->displayListarViajes();
 }
@@ -33,12 +33,12 @@ public function notificarViaje(){
   $this->view->notificarViaje();
 }
 
-public function viajesFuturos(){
+public function viajesFuturos(){  //GRUPO 77 - Los datos son enviados a la vista para poder mostrarlos al usuario.
   // $viajes = $this->model->viajesFuturos($usuario, $email);
   $this->view->viajesFuturos();
 }
 
-public function listaViajesCompleta(){
+public function listaViajesCompleta(){ //GRUPO 77 - Los datos son enviados a la vista para poder mostrarlos al usuario.
   $this->view->listaViajesCompleta();
 }
 public function formularioViajes(){

@@ -7,6 +7,7 @@
     <div class="col-12 roles">
       <div class="container-fluid">
         <h1 style="margin-bottom: 3%">Informacion del   Viaje</h1>
+        <!-- Tabla en donde se muestran los datos de los viajes futuros -->
         <table class="table">
             <thead>
             <tr class="table-primary">
@@ -24,16 +25,16 @@
           </thead>
           <tbody>
             <tr>
+              <td>30/5/2020</td>
+              <td>30/5/2020</td>
+              <td>Vacaciones</td>
+              <td>Buenos Aires,Argentina</td>
               <td>Lima, Perú</td>
-              <td>Lima, Perú</td>
-              <td>Lima, Perú</td>
-              <td>Lima, Perú</td>
-              <td>Lima, Perú</td>
-              <td>Lima, Perú</td>
-              <td>Lima, Perú</td>
-              <td>Lima, Perú</td>
-              <td>Lima, Perú</td>
-              <td>Lima, Perú</td>
+              <td>15:00</td>
+              <td>22:00</td>
+              <td>LAN</td>
+              <td>69</td>
+              <td></td>
             </tr>
         </tbody>
             <td><a href="reservaHotel"><button type="button" name="button" class="btn btn-primary">Agregar reserva</button></a></td>
