@@ -45,6 +45,10 @@ public function formularioViajes(){
   $this->view->formularioViajes();
 }
 
+public function agregarViaje(){
+  $this->view->agendarViaje();
+}
+
 public function informacionViaje(){  //GRUPO 75- Accedemos a la vista para mostrar la informacion de los viajes obtenidos de la base.
   $this->view->informacionDetalladaViaje();
 }

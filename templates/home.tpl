@@ -13,7 +13,7 @@
         <div>
           <!-- para comenzar el flujo se debe presionar "mis viajes" -->
           <p  class="text-center margin-top"><a href="viajes" class="btn btn-primary btn-lg " role="button" aria-disabled="true">Mis Viajes</a></p>
-          <p  class="text-center margin-top"><a href="#" class="btn btn-primary btn-lg " role="button" aria-disabled="true">Agendar Viaje</a></p>
+          <p  class="text-center margin-top"><a href="agendarViaje" class="btn btn-primary btn-lg " role="button" aria-disabled="true">Agendar Viaje</a></p>
         </div>
 
       </div>

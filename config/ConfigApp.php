@@ -16,6 +16,7 @@ class ConfigApp
       'home' => 'LoginController#Home',
       'usuario'=> 'UsuarioController#Home',
       'viajes'=> 'ViajesController#listarViajes',
+      'agendarViaje'=>'ViajesController#agregarViaje',
       'viajesFuturos' => 'ViajesController#viajesFuturos',
       'notificarViaje' => 'ViajesController#notificarViaje',
       'listaViajes2' => 'ViajesController#listaViajesCompleta',

@@ -52,6 +52,11 @@ public function informacionDetalladaViaje(){ //GRUPO 75 - Los datos de los viaje
   $smarty->display('templates/infoViaje.tpl');
 }
 
+public function agendarViaje(){
+  $smarty = new Smarty();
+  $smarty->display('templates/formAgendarViaje.tpl');  
+}
+
 }
 
 
