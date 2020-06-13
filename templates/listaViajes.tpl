@@ -19,6 +19,7 @@
               <th scope="col"> </th>
               <th scope="col"> </th>
               <th scope="col"> </th>
+              <th scope="col"> </th>
 
             </tr>
           </thead>
@@ -32,6 +33,7 @@
               <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Editar</button></a></td>
               <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
               <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>
+              <td><button type="button" name="button" class="btn btn-primary">Ver más</button></td>
             </tr>
             <tr>
               <td>Santiago, Chile</td>
@@ -41,7 +43,8 @@
               <td>Hotel California</td>
               <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Editar</button></a></td>
               <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
-              <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>     
+              <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>  
+              <td><button type="button" name="button" class="btn btn-primary">Ver más</button></td>   
                      </tr>
             <tr>
               <td>París, Francia </td>
@@ -52,6 +55,7 @@
               <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Editar</button></a></td>
               <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
               <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>
+              <td><button type="button" name="button" class="btn btn-primary">Ver más</button></td>
               
             </tr>
           </tbody>
