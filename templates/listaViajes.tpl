@@ -41,7 +41,8 @@
               <td>Hotel California</td>
               <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Editar</button></a></td>
               <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
-              <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>            </tr>
+              <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>     
+                     </tr>
             <tr>
               <td>París, Francia </td>
               <td>Ezeiza</td>
@@ -51,6 +52,7 @@
               <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Editar</button></a></td>
               <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
               <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>
+              
             </tr>
           </tbody>
         </table>
