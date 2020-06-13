@@ -14,6 +14,8 @@ class ViajesModel
     $viajes = $viajes->fetchAll(PDO::FETCH_OBJ);  
     return $viajes;
   }
-
+  public function us101(){
+    $nada =0;
+  }
 } 
 ?>
