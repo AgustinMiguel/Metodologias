@@ -34,9 +34,9 @@ class ViajesView
     $smarty = new Smarty();
     $smarty->display('templates/viajesFuturos.tpl');
 }
-public function listaViajesCompleta(){ //GRUPO 77 - Los datos son enviados y mostrados en el template ListaViajesCompleta
+public function listaViajesAltaAgendaViajes(){ //GRUPO 77 - Los datos son enviados y mostrados en el template ListaViajesCompleta
 $smarty = new Smarty();
-$smarty->display('templates/listaViajesCompleta.tpl');
+$smarty->display('templates/listaViajesAltaAgendaViajes.tpl');
 }
 public function formularioViajes(){
 $smarty = new Smarty();
@@ -54,8 +54,14 @@ public function informacionDetalladaViaje(){ //GRUPO 75 - Los datos de los viaje
 
 public function agendarViaje(){
   $smarty = new Smarty();
-  $smarty->display('templates/formAgendarViaje.tpl');  
+  $smarty->display('templates/AgendarViaje.tpl');
 }
+public function listaViajesAgregaReservaHotel(){
+  $smarty = new Smarty();
+  $smarty->display('templates/listaViajesAgregaReservaHotel.tpl');
+}
+
+
 
 }
 

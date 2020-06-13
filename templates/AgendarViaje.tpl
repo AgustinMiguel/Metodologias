@@ -32,7 +32,7 @@
                             </div>
                         </div>
                     </form>
-                    <button type="submit" class="btn btn-primary mb-2" > <a href="listaViajes2" style="color:white">Confirmar</a></button>
+                    <button type="submit" class="btn btn-primary mb-2" > <a href="listaViajesAltaAgendaViajes" style="color:white">Confirmar</a></button>
                 </div>
             </div>
         </div>

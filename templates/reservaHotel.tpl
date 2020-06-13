@@ -61,7 +61,7 @@
                                 <input type="text" class="form-control" id="inputCheckout" placeholder="">
                             </div>
                         </div>
-                        <button type="submit" class="btn btn-primary mb-2" > <a href="listaViajes2" style="color:white">Confirmar</a></button>
+                        <button type="submit" class="btn btn-primary mb-2" > <a href="listaViajesAgregaReservaHotel" style="color:white">Confirmar</a></button>
                         <button  type="submit" class="btn btn-primary mb-2" > <a href="reservaMedianteEmail" style="color:white">Enviar Email</a></button>
 
                     </form>

@@ -38,8 +38,8 @@ public function viajesFuturos(){  //GRUPO 77 - Los datos son enviados a la vista
   $this->view->viajesFuturos();
 }
 
-public function listaViajesCompleta(){ //GRUPO 77 - Los datos son enviados a la vista para poder mostrarlos al usuario.
-  $this->view->listaViajesCompleta();
+public function listaViajesAltaAgendaViajes(){ //GRUPO 77 - Los datos son enviados a la vista para poder mostrarlos al usuario.
+  $this->view->listaViajesAltaAgendaViajes();
 }
 public function formularioViajes(){
   $this->view->formularioViajes();
@@ -52,6 +52,11 @@ public function agregarViaje(){
 public function informacionViaje(){  //GRUPO 75- Accedemos a la vista para mostrar la informacion de los viajes obtenidos de la base.
   $this->view->informacionDetalladaViaje();
 }
+
+public function listaViajesAgregaReservaHotel(){
+  $this->view->listaViajesAgregaReservaHotel();
+}
+
 
 }
 ?>
