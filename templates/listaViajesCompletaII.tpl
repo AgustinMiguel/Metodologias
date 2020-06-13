@@ -7,8 +7,9 @@
     <div class="col-12 roles">
       <div class="container-fluid">
         <h1 style="margin-bottom: 3%">Viajes futuros</h1>
+        <!-- Tabla en donde se muestran los datos de los viajes futuros -->
         <table class="table">
-           <thead>
+          <thead>
             <tr class="table-primary">
               <th scope="col">Titulo</th>
               <th scope="col">Destino</th>
@@ -47,13 +48,13 @@
               <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
               <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>  
               <td><button type="button" name="button" class="btn btn-primary">Ver más</button></td>   
-                     </tr>
-                                 <tr>
+            </tr>
+                        <tr>
               <td>Vamo a la Playa </td>
-              <td>Sin destino</td>
-              <td>Sin destino</td>
-              <td>Sin destino</td>
-              <td>Sin destino</td>
+              <td>Cancun, Mexico</td>
+              <td>Sin vuelo</td>
+              <td>1/1/2021</td>
+              <td>20/1/2021</td>
               <td>Descanso</td>
               <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Editar</button></a></td>
               <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
@@ -61,9 +62,9 @@
               <td><button type="button" name="button" class="btn btn-primary">Ver más</button></td>
               
             </tr>
-
           </tbody>
         </table>
+
       </div>
     </div>
   </div>

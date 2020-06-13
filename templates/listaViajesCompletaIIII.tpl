@@ -48,20 +48,42 @@
               <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>  
               <td><button type="button" name="button" class="btn btn-primary">Ver más</button></td>   
                      </tr>
-                                 <tr>
+            <tr>
               <td>Vamo a la Playa </td>
-              <td>Sin destino</td>
-              <td>Sin destino</td>
-              <td>Sin destino</td>
-              <td>Sin destino</td>
+              <td>Cancun, Mexico</td>
+              <td>Sin vuelo</td>
+              <td>1/1/2021</td>
+              <td>20/1/2021</td>
               <td>Descanso</td>
               <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Editar</button></a></td>
               <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
               <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>
               <td><button type="button" name="button" class="btn btn-primary">Ver más</button></td>
-              
+              </tr>
+            <tr>
+              <td>Sin titulo</td>
+              <td>Bariloche, Argentina</td>
+              <td>Aeroparque</td>
+              <td>14/07/2020</td>
+              <td>27/07/2020</td>
+              <td>Sin motivo</td>
+              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Editar</button></a></td>
+              <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
+              <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>
+              <td><button type="button" name="button" class="btn btn-primary">Ver más</button></td>
             </tr>
-
+            <tr>
+              <td>Sin titulo</td>
+              <td>Miami, EE.UU</td>
+              <td>Sin vuelo</td>
+              <td>05/04/2029</td>
+              <td>17/07/2035</td>
+              <td>Sin motivo</td>
+              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Editar</button></a></td>
+              <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
+              <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>
+              <td><button type="button" name="button" class="btn btn-primary">Ver más</button></td>
+            </tr>
           </tbody>
         </table>
       </div>

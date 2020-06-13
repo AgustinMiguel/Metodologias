@@ -11,11 +11,12 @@
         <table class="table">
           <thead>
             <tr class="table-primary">
-              <th scope="col">Lugar destino</th>
-              <th scope="col">Aeropuerto de salida</th>
-              <th scope="col">Fecha de ida</th>
-              <th scope="col">Fecha de vuelta</th>
-              <th scope="col">Nombre hotel</th>
+              <th scope="col">Titulo</th>
+              <th scope="col">Destino</th>
+              <th scope="col">Salida</th>
+              <th scope="col">Inicio</th>
+              <th scope="col">Fin</th>
+              <th scope="col">Objetivo</th>
               <th scope="col"> </th>
               <th scope="col"> </th>
               <th scope="col"> </th>
@@ -25,39 +26,29 @@
           </thead>
           <tbody>
             <tr>
+              <td>Encuentro Pokemon</td>
               <td>Lima, Perú</td>
-              <td>Ezeiza</td>
-              <td>30/5/2020</td>
-              <td>24/6/2020</td>
-              <td>El mirador</td>
+              <td>Ae.Ezeiza</td>
+              <td>25/5/2020</td>
+              <td>28/5/2020</td>
+              <td>Otro</td>
               <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Editar</button></a></td>
               <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
               <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>
               <td><button type="button" name="button" class="btn btn-primary">Ver más</button></td>
             </tr>
             <tr>
+              <td>Lucha por el Gym</td>
               <td>Santiago, Chile</td>
-              <td>Ezeiza</td>
+              <td>Ae.Ezeiza</td>
               <td>25/6/2020</td>
               <td>28/6/2020</td>
-              <td>Hotel California</td>
+              <td>Trabajo</td>
               <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Editar</button></a></td>
               <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
               <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>  
               <td><button type="button" name="button" class="btn btn-primary">Ver más</button></td>   
-                     </tr>
-            <tr>
-              <td>París, Francia </td>
-              <td>Ezeiza</td>
-              <td>21/9/2020</td>
-              <td>25/9/2020</td>
-              <td></td>
-              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Editar</button></a></td>
-              <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
-              <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>
-              <td><button type="button" name="button" class="btn btn-primary">Ver más</button></td>
-              
-            </tr>
+             </tr>
           </tbody>
         </table>
 
