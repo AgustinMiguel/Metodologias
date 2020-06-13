@@ -58,11 +58,12 @@ margin-right: 0 !important;
 
 #footer {
   background-color: #007bff;
-  position: absolute;
+  margin-top: 1%;
   bottom: 0;
   width: 100%;
   height: 10%;
   color: white;
+  position: absolute;
 }
 
 
@@ -107,6 +108,9 @@ color: white;
   height: 40px;
   display:block;
   margin:auto;
+}
+.container{
+  margin-bottom: 10%;
 }
 
 

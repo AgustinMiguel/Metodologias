@@ -6,6 +6,8 @@
     <div class="row cont">
     <div class="col-12 roles">
       <div class="container-fluid">
+        <button  type="submit" class="btn btn-primary mb-2" style="color:white; margin-right:100%"> <a href="listaViajesAgregaReservaHotel" style="color:white;">Volver </a></button>
+
         <h1>Informacion de los Vuelos</h1>
         <!-- Tabla en donde se muestran los datos de los viajes futuros -->
         <table class="table">
@@ -66,9 +68,20 @@
               <td>13:00</td>
               <td>13:00</td>
             </tr>
+            <tr>
+              <td>Hotel Magnifico</td>
+              <td>3</td>
+              <td>Colón</td>
+              <td>1573</td>
+              <td>3</td>
+              <td>7/1/2021</td>
+              <td>20/1/2021</td>
+              <td>13:00</td>
+              <td>13:00</td>
+            </tr>
         </tbody>
         </table>
-        <td><button type="button" name="button" class="btn btn-primary"><a style="color: white" href="reservaHotel">Agregar hotel</a></button></td></a></td>
+        <td><button type="button" name="button" class="btn btn-primary">Agregar hotel</button></td></a></td>
         <h1>Mis acompañantes</h1>
         <table class="table">
             <thead>

@@ -60,6 +60,11 @@ public function listaViajesAgregaReservaHotel(){
   $smarty = new Smarty();
   $smarty->display('templates/listaViajesAgregaReservaHotel.tpl');
 }
+public function infoViaje2(){
+  $smarty = new Smarty();
+  $smarty->display('templates/infoViaje2.tpl');
+}
+
 
 
 

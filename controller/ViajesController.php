@@ -56,6 +56,9 @@ public function informacionViaje(){  //GRUPO 75- Accedemos a la vista para mostr
 public function listaViajesAgregaReservaHotel(){
   $this->view->listaViajesAgregaReservaHotel();
 }
+public function infoViaje2(){
+  $this->view->infoViaje2();
+}
 
 
 }
