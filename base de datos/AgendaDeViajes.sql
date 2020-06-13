@@ -1,5 +1,5 @@
 -- Created by Vertabelo (http://vertabelo.com)
--- Last modification date: 2020-06-13 18:51:28.457
+-- Last modification date: 2020-06-13 20:24:32.157
 
 -- tables
 -- Table: Hotel
@@ -58,6 +58,7 @@ CREATE TABLE Viaje (
     nro_personas int  NOT NULL,
     objetivo varchar(300)  NOT NULL,
     detalles_imp varchar(300)  NOT NULL,
+    titulo varchar(30)  NOT NULL,
     CONSTRAINT PK_Viaje PRIMARY KEY (id_viaje)
 );
 
