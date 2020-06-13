@@ -17,5 +17,10 @@ class ViajesModel
   public function us101(){
     $nada =0;
   }
+
+  public function us87(){
+    //La us 87 se encargaria de traer los datos de los viaje futuros de la BD
+    $nada = 0;
+  }
 } 
 ?>
