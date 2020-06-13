@@ -17,7 +17,12 @@
                         <div class="form-group row">
                             <label for="inputObjetivo" class="col-sm-2 col-form-label">Objetivo</label>
                             <div class="col-sm-10">
-                                <input type="text" class="form-control" id="inputObjetivo" placeholder="Objetivo">
+                                <select name="">
+                                    <option value="1">Estudio</option>
+                                    <option value="2">Trabajo</option>
+                                    <option value="3">Descanso</option>
+                                    <option value="4">Otros</option>
+                                </select>
                             </div>
                         </div>
                         <div class="form-group row">
