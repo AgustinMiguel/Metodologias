@@ -79,6 +79,11 @@ public function altaPorReservaHotelEmail(){
   $smarty = new Smarty();
   $smarty->display('templates/listaViajesAltaReservaHotelEmail.tpl');
 }
+public function verInfoViaje2(){
+  $smarty = new Smarty();
+  $smarty->display('templates/verInfoViaje2.tpl');
+}
+
 
 
 

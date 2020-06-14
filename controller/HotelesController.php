@@ -34,6 +34,10 @@ class HotelesController
     $this->view->verInfo();
 
   }
+  function reservarHotel2(){
+    $this->view->reservarHotel2();
+
+  }
 
 
 

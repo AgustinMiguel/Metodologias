@@ -29,7 +29,10 @@ class ConfigApp
       'infoViaje2' => 'ViajesController#infoViaje2',
       'agendarViajeViaEmail' => 'ViajesController#agendarViajeViaEmail',
       'altaPorReservaHotelEmail' => 'ViajesController#altaPorReservaHotelEmail',
-      'altaPorReservaVueloEmail' => 'ViajesController#altaPorReservaVueloEmail'
+      'altaPorReservaVueloEmail' => 'ViajesController#altaPorReservaVueloEmail',
+      'verInfoViaje2' => 'ViajesController#verInfoViaje2',
+      'reservaHotel2' => 'HotelesController#reservarHotel2',
+
 
 
 

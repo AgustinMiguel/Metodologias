@@ -27,6 +27,10 @@ class HotelesView
     $this->Smarty->display('templates/verInfo.tpl');
 
   }
+  public function reservarHotel2(){
+    $smarty = new Smarty();
+    $smarty->display('templates/reservaHotel2.tpl');
+  }
 
 }
 

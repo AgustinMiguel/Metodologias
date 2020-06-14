@@ -68,6 +68,9 @@ public function altaPorReservaHotelEmail(){
 public function altaPorReservaVueloEmail(){
   $this->view->altaPorReservaVueloEmail();
 }
+public function verInfoViaje2(){
+  $this->view->verInfoViaje2();
+}
 
 
 

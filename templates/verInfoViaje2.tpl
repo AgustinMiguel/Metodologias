@@ -56,19 +56,10 @@
           </thead>
           <tbody>
             <tr>
-              <td>Hotel california</td>
-              <td>4</td>
-              <td>Garibaldi</td>
-              <td>669</td>
-              <td>69</td>
-              <td>1/1/2021</td>
-              <td>7/1/2021</td>
-              <td>13:00</td>
-              <td>13:00</td>
             </tr>
         </tbody>
         </table>
-        <td><button type="button" name="button" class="btn btn-primary"><a style="color: white" href="reservaHotel">Agregar hotel</a></button></td></a></td>
+        <td><button type="button" name="button" class="btn btn-primary"><a style="color: white" href="reservaHotel2">Agregar hotel</a></button></td></a></td>
         <h1>Mis acompañantes</h1>
         <table class="table">
             <thead>
