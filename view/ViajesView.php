@@ -65,6 +65,11 @@ public function infoViaje2(){
   $smarty->display('templates/infoViaje2.tpl');
 }
 
+public function agendarViajeViaEmail(){
+  $smarty = new Smarty();
+  $smarty->display('templates/altaVueloPorEmail.tpl');
+}
+
 
 
 

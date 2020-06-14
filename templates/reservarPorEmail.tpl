@@ -13,7 +13,7 @@
                             <div class="col-sm-10">
                                 <input type="email" class="form-control" id="inputEmail" placeholder=hotelupmetodologiacompany@gmail.com>
                             </div>
-                            <label for="inputBoucher" class="col-sm-2 col-form-label">Boucher</label>
+                            <label for="inputBoucher" class="col-sm-2 col-form-label">Voucher</label>
                             <div class="col-sm-10">
                                 <input type="file" class="form-control" id="inputBoucher" placeholder=hotelupmetodologiacompany@gmail.com>
                             </div>

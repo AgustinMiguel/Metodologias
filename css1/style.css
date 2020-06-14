@@ -70,6 +70,11 @@ margin-right: 0 !important;
 margin-top: 20px;
 }
 
+.noMarginRight{
+margin-right: 0;
+
+}
+
 .nombre-usuario{
   font-size: 25px;
 
@@ -84,6 +89,11 @@ margin-top: 20px;
 .img-notificacion{
   padding-left: 15px;
   padding-right:0;
+}
+
+.diferenciar{
+  border-right: 1px solid #007bff;
+
 }
 .dropdown-menu{
 background: #007bff;

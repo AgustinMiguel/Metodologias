@@ -59,6 +59,10 @@ public function listaViajesAgregaReservaHotel(){
 public function infoViaje2(){
   $this->view->infoViaje2();
 }
+public function agendarViajeViaEmail(){
+  $this->view->agendarViajeViaEmail();
+}
+
 
 
 }

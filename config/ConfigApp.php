@@ -26,7 +26,9 @@ class ConfigApp
       'verInfoViaje' => 'ViajesController#informacionViaje',
       'listaViajesAltaAgendaViajes' => 'ViajesController#listaViajesAltaAgendaViajes',
       'listaViajesAgregaReservaHotel' => 'ViajesController#listaViajesAgregaReservaHotel',
-      'infoViaje2' => 'ViajesController#infoViaje2'
+      'infoViaje2' => 'ViajesController#infoViaje2',
+      'agendarViajeViaEmail' => 'ViajesController#agendarViajeViaEmail'
+
       // 'ciudadano'=> 'CiudadanoController#Home',
       // 'formulario'=>'CiudadanoController#mostrarFormulario',
       // //Esto es para ver el mapa del jefe, pero no pude probar si anda
