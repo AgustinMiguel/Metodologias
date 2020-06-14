@@ -70,6 +70,15 @@ public function agendarViajeViaEmail(){
   $smarty->display('templates/altaVueloPorEmail.tpl');
 }
 
+public function altaPorReservaVueloEmail(){
+  $smarty = new Smarty();
+  $smarty->display('templates/listaViajesAltaReservaVueloEmail.tpl');
+}
+
+public function altaPorReservaHotelEmail(){
+  $smarty = new Smarty();
+  $smarty->display('templates/listaViajesAltaReservaHotelEmail.tpl');
+}
 
 
 

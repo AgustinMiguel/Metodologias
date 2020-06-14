@@ -27,7 +27,11 @@ class ConfigApp
       'listaViajesAltaAgendaViajes' => 'ViajesController#listaViajesAltaAgendaViajes',
       'listaViajesAgregaReservaHotel' => 'ViajesController#listaViajesAgregaReservaHotel',
       'infoViaje2' => 'ViajesController#infoViaje2',
-      'agendarViajeViaEmail' => 'ViajesController#agendarViajeViaEmail'
+      'agendarViajeViaEmail' => 'ViajesController#agendarViajeViaEmail',
+      'altaPorReservaHotelEmail' => 'ViajesController#altaPorReservaHotelEmail',
+      'altaPorReservaVueloEmail' => 'ViajesController#altaPorReservaVueloEmail'
+
+
 
       // 'ciudadano'=> 'CiudadanoController#Home',
       // 'formulario'=>'CiudadanoController#mostrarFormulario',

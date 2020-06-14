@@ -17,7 +17,7 @@
                   <input type="file" class="form-control" id="inputBoucher" placeholder=hotelupmetodologiacompany@gmail.com>
               </div>
           </div>
-          <button type="submit" class="btn btn-primary mb-2 "> <a href="homeNotificacion" style="color:white">Confirmar</a></button>
+          <button type="submit" class="btn btn-primary mb-2 "> <a href="altaPorReservaHotelEmail" style="color:white">Confirmar</a></button>
       </form>
     </div>
 
@@ -36,7 +36,7 @@
                   <input type="file" class="form-control" id="inputBoucher" placeholder=hotelupmetodologiacompany@gmail.com>
               </div>
           </div>
-          <button type="submit" class="btn btn-primary mb-2 "> <a href="homeNotificacion" style="color:white">Confirmar</a></button>
+          <button type="submit" class="btn btn-primary mb-2 "> <a href="altaPorReservaVueloEmail" style="color:white">Confirmar</a></button>
       </form>
     </div>
   </div>

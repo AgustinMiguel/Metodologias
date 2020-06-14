@@ -62,6 +62,12 @@ public function infoViaje2(){
 public function agendarViajeViaEmail(){
   $this->view->agendarViajeViaEmail();
 }
+public function altaPorReservaHotelEmail(){
+  $this->view->altaPorReservaHotelEmail();
+}
+public function altaPorReservaVueloEmail(){
+  $this->view->altaPorReservaVueloEmail();
+}
 
 
 
