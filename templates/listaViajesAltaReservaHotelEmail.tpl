@@ -33,7 +33,7 @@
               <td>Otro</td>
               <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
               <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>
-              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Ver más</button></a></td>   
+              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Ver más</button></a></td>
             </tr>
             <tr>
               <td>Lucha por el Gym</td>
@@ -43,19 +43,19 @@
               <td>28/6/2020</td>
               <td>Trabajo</td>
               <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
-              <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>  
-              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Ver más</button></a></td>   
+              <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>
+              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Ver más</button></a></td>
                      </tr>
             <tr>
               <td>Vamo a la Playa </td>
-              <td>Cancun, Mexico</td>
+              <td>Sin destino</td>
               <td>Sin vuelo</td>
-              <td>1/1/2021</td>
-              <td>20/1/2021</td>
+              <td>Sin vuelo</td>
+              <td>Sin vuelo</td>
               <td>Descanso</td>
               <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
               <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>
-              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Ver más</button></a></td>   
+              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Ver más</button></a></td>
               </tr>
             <tr>
               <td>Sin titulo</td>
@@ -77,7 +77,7 @@
               <td>Sin motivo</td>
               <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
               <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>
-              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Ver más</button></a></td>   
+              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Ver más</button></a></td>
             </tr>
           </tbody>
         </table>

@@ -34,7 +34,7 @@
               <td>Otro</td>
               <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
               <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>
-              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Ver más</button></a></td>   
+              <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Ver más</button></a></td>
             </tr>
             <tr>
               <td>Lucha por el Gym</td>
@@ -47,7 +47,41 @@
               <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>
               <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Ver más</button></a></td>
              </tr>
+             <tr>
+               <td>Vamo a la Playa </td>
+               <td>Sin Destino</td>
+               <td>Sin Destino</td>
+               <td>Sin Destino</td>
+               <td>Sin Destino</td>
+               <td>Descanso</td>
+               <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
+               <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>
+               <td><a href="verInfoViaje2"><button type="button" name="button" class="btn btn-primary">Ver más</button></a></td>
+               </tr>
+             <tr>
+               <td>Sin titulo</td>
+               <td>Bariloche, Argentina</td>
+               <td>Aeroparque</td>
+               <td>14/07/2020</td>
+               <td>27/07/2020</td>
+               <td>Sin motivo</td>
+               <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
+               <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>
+               <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Ver más</button></a></td>
+             </tr>
+             <tr>
+               <td>Sin titulo</td>
+               <td>Miami, EE.UU</td>
+               <td>Sin vuelo</td>
+               <td>05/04/2029</td>
+               <td>17/07/2035</td>
+               <td>Sin motivo</td>
+               <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
+               <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>
+               <td><a href="verInfoViaje"><button type="button" name="button" class="btn btn-primary">Ver más</button></a></td>
+             </tr>
           </tbody>
+
         </table>
 
       </div>

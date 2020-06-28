@@ -48,10 +48,10 @@
                      </tr>
                                  <tr>
               <td>Vamo a la Playa </td>
-              <td>Sin destino</td>
-              <td>Sin destino</td>
-              <td>Sin destino</td>
-              <td>Sin destino</td>
+              <td>Sin Destino</td>
+              <td>Sin Destino</td>
+              <td>Sin Destino</td>
+              <td>Sin Destino</td>
               <td>Descanso</td>
               <td><button type="button" name="button" class="btn btn-primary">Borrar</button></td>
               <td><button type="button" name="button" class="btn btn-primary">Mapa</button></td>
